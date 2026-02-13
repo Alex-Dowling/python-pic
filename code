@@ -1,0 +1,159 @@
+#Info for Caleb
+calebName = "| Caleb Wall                       |" #Name
+calebAge = "| Age : 16                         |" #Age
+calebGrade = "| Grade : Junior                   |" #Grade level
+calebDrive = "| Driver's License : No            |" #If Caleb has a license
+calebMail = "| Gmail : 278472@burlcoschools.org |" #Gmail
+
+#Info for Andrew
+andrewName = "| Andrew Rapetti                   |" #Name
+andrewAge = "| Age : 16                         |" #Age
+andrewGrade = "| Grade : Junior                   |" #Grade level
+andrewDrive = "| Driver's License : No            |" #If Andrew has a license
+andrewMail = "| Gmail : 278430@burlcoschools.org |" #Gmail
+
+#Info for Chris
+chrisName = "| Chris Davis                      |" #Name
+chrisAge = "| Age : 16                         |" #Age
+chrisGrade = "| Grade : Junior                   |" #Grade level
+chrisDrive = "| Driver's License : No            |" #If Chris has a license
+chrisMail = "| Gmail : 269329@burlcoschools.org |" #Gmail
+
+#Info for Martins
+martinsName = "| Martins Jr Agbakwu               |" #Name
+martinsAge = "| Age : 16                         |" #Age
+martinsGrade = "| Grade : Junior                   |" #Grade level
+martinsDrive = "| Driver's License : No            |" #If Martins has a license
+martinsMail = "| Gmail : 278827@burlcoschools.org |" #Gmail
+
+#Info for Wes
+wesName = "| Wes Spaugh                       |" #Name
+wesAge = "| Age : 16                         |" #Age
+wesGrade = "| Grade : Junior                   |" #Grade level
+wesDrive = "| Driver's License : No            |" #If Wes has a license
+wesMail = "| Gmail : 279089@burlcoschools.org |" #Gmail
+
+#Info for Alex
+alexName = "| Alex Dowling                     |" #Name
+alexAge = "| Age : 16                         |" #Age
+alexGrade = "| Grade : Junior                   |" #Grade level
+alexDrive = "| Driver's License : No            |" #If Alex has a license
+alexMail = "| Gmail : 279235@burlcoschools.org |" #Gmail
+
+#Info for Dylan
+dylanName = "| Dylan Guzman Medina              |" #Name
+dylanAge = "| Age : 16                         |" #Age
+dylanGrade = "| Grade : Junior                   |" #Grade level
+dylanDrive = "| Driver's License : No            |" #If Dylan has a license
+dylanMail = "| Gmail : 278509@burlcoschools.org |" #Gmail
+
+#Info for Tyler
+tylerName = "| Tyler Keane                      |" #Name
+tylerAge = "| Age : 17                         |" #Age
+tylerGrade = "| Grade : Junior                   |" #Grade level
+tylerDrive = "| Driver's License : No            |" #If Tyler has a license
+tylerMail = "| Gmail : 269260@burlcoschools.org |" #Gmail
+
+#Info for Abraham
+abName = "| Abraham Esparra                  |" #Name
+abAge = "| Age : 16                         |" #Age
+abGrade = "| Grade : Junior                   |" #Grade level
+abDrive = "| Driver's License : No            |" #If Abraham has a license
+abMail = "| Gmail : 269360@burlcoschools.org |" #Gmail
+
+#Info for Brandon
+brandonName = "| Brandon Cox                      |" #Name
+brandonAge = "| Age : 17                         |" #Age
+brandonGrade = "| Grade : Junior                   |" #Grade level
+brandonDrive = "| Driver's License : Yes           |" #If Brandon has a license
+brandonMail = "| Gmail : 278583@burlcoschools.org |" #Gmail
+
+#Printing Caleb's info
+print("------------------------------------")
+print(calebName)
+print(calebAge)
+print(calebGrade)
+print(calebDrive)
+print(calebMail)
+print("------------------------------------")
+
+#Printing Andrew's info
+print("------------------------------------")
+print(andrewName)
+print(andrewAge)
+print(andrewGrade)
+print(andrewDrive)
+print(andrewMail)
+print("------------------------------------")
+
+#Printing Chris' info
+print("------------------------------------")
+print(chrisName)
+print(chrisAge)
+print(chrisGrade)
+print(chrisDrive)
+print(chrisMail)
+print("------------------------------------")
+
+#Printing Martins' info
+print("------------------------------------")
+print(martinsName)
+print(martinsAge)
+print(martinsGrade)
+print(martinsDrive)
+print(martinsMail)
+print("------------------------------------")
+
+#Printing Wes' info
+print("------------------------------------")
+print(wesName)
+print(wesAge)
+print(wesGrade)
+print(wesDrive)
+print(wesMail)
+print("------------------------------------")
+
+#Printing Alex's info
+print("------------------------------------")
+print(alexName)
+print(alexAge)
+print(alexGrade)
+print(alexDrive)
+print(alexMail)
+print("------------------------------------")
+
+#Printing Dylan's info
+print("------------------------------------")
+print(dylanName)
+print(dylanAge)
+print(dylanGrade)
+print(dylanDrive)
+print(dylanMail)
+print("------------------------------------")
+
+#Printing Tyler's info
+print("------------------------------------")
+print(tylerName)
+print(tylerAge)
+print(tylerGrade)
+print(tylerDrive)
+print(tylerMail)
+print("------------------------------------")
+
+#Printing Abraham's info
+print("------------------------------------")
+print(abName)
+print(abAge)
+print(abGrade)
+print(abDrive)
+print(abMail)
+print("------------------------------------")
+
+#Printing Brandon's info
+print("------------------------------------")
+print(brandonName)
+print(brandonAge)
+print(brandonGrade)
+print(brandonDrive)
+print(brandonMail)
+print("------------------------------------")
