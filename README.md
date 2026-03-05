@@ -1,1 +1,1 @@
-# python-personal-info-code
+# python-pic
